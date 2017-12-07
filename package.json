@@ -8,6 +8,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
     "bower-files": "^4.0.0",
     "browser-sync": "^2.18.13",
     "browserify": "^14.5.0",
@@ -30,6 +32,13 @@
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.9.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "haiku-random": "^1.0.0",
+    "hipku": "^2.0.0",
+    "random-ip": "0.0.1",
+    "random-js": "^1.0.8",
+    "syllable": "^3.0.0"
+  },
   "description": ""
 }
